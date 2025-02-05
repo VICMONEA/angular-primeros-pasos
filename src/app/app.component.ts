@@ -1,4 +1,7 @@
-import { Component } from '@angular/core';
+import { Component, NgModule } from '@angular/core';
+import { DbzModule } from './dbz/dbz.module';
+
+
 
 @Component({
   selector: 'app-root',
