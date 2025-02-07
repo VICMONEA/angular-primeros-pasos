@@ -12,6 +12,7 @@
     "delete:docs": "del docs",
     "copy:dist" : "copyfiles ./dist/bases/* ./docs -f",
     "copy:browser" : "copyfiles ./dist/bases/browser/* ./docs/browser -f"
+
   },
   "private": true,
   "dependencies": {
